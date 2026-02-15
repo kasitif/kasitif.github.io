@@ -14,7 +14,6 @@ title: Felix Kasiti Isundwa - Bio
       <p>📍 Stirling, Scotland, UK</p>
       <p>📧 <a href="mailto:kasitif@gmail.com">kasitif@gmail.com</a> | <a href="mailto:f.k.isundwa@stir.ac.uk">f.k.isundwa@stir.ac.uk</a></p>
       <p>🔗 <a href="https://www.linkedin.com/in/kasitif" target="_blank">LinkedIn</a> | <a href="https://github.com/kasitif" target="_blank">GitHub</a> | <a href="https://scholar.google.com" target="_blank">Google Scholar</a></p>
-      <p>📞 +44 7943 637352</p>
     </div>
   </div>
 </div>
