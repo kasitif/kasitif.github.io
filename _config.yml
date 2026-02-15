@@ -16,7 +16,7 @@ repository               : "kasitif/kasitif.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "images/scale.jpg"
+  avatar           : "scale.jpg"
   name             : "Felix Kasiti Isundwa"
   pronouns         : # example: "he/him"  
   bio              : "PhD Researcher at the University of Stirling"
