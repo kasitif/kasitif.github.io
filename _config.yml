@@ -1,7 +1,5 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
+# This config file is meant for settings that affect your entire site.
 
 # Basic Site Settings
 locale                   : "en-GB"
@@ -13,10 +11,10 @@ url                      : https://kasitif.github.io
 baseurl                  : ""
 repository               : "kasitif/kasitif.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - Controls sidebar content
 author:
   # Biographic information
-  avatar           : "https://github.com/kasitif/kasitif.github.io/images/scale.jpg"
+  avatar           : "profile.jpg"  # Put profile.jpg in /images/ folder
   name             : "Felix Kasiti Isundwa"
   pronouns         : # example: "he/him"  
   bio              : "PhD Researcher at the University of Stirling"
@@ -26,12 +24,12 @@ author:
   email            : "kasitif@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL
+  arxiv            : # URL - e.g. "https://arxiv.org/search/cs?searchtype=author&query=Isundwa"
   googlescholar    : "https://scholar.google.com"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/YOUR-ORCID-ID"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=YOUR+NAME"
   researchgate     : # URL
 
   # Repositories and software development
@@ -60,7 +58,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username - e.g. "kasitif"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -76,7 +74,7 @@ future                   : true
 read_more                : "disabled"
 talkmap_link             : false
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
 atom_feed:
   hide                   : false
 
@@ -93,7 +91,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
+og_image                 :  # Open Graph/Twitter default site image
 
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -102,9 +100,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false"
+  provider               : "false"  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : # Your Google Analytics tracking ID
 
 # Reading Files
 include:
@@ -235,6 +233,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 whitelist:
   - jekyll-paginate

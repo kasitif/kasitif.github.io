@@ -1,86 +1,96 @@
 # kasitif.github.io
 
-My professional CV and portfolio site, built with Jekyll and hosted on GitHub Pages.
-
-## About This Site
-
-This is a personal CV website for Felix Kasiti Isundwa, showcasing my research, publications, professional experience, consultancy work, and projects in remote sensing and hydrology.
+Professional academic website for Felix Kasiti Isundwa, built with the Academic Pages Jekyll theme.
 
 **Live Site:** [kasitif.github.io](https://kasitif.github.io)
+
+## About
+
+This website showcases my research, publications, professional experience, consultancy work, and projects in remote sensing and hydrology.
+
+## Theme
+
+Built using [Academic Pages](https://github.com/academicpages/academicpages.github.io), a Jekyll template specifically designed for academic websites.
+
+## Quick Start
+
+### 1. Upload Files to GitHub
+
+1. Create repository: `kasitif.github.io` (must match username)
+2. Upload all files from this directory
+3. GitHub Pages will automatically build the site
+
+### 2. Add Required Files
+
+**Profile Photo:**
+- Upload to: `images/profile.jpg`
+- Size: 400x400 pixels recommended
+- Format: JPG or PNG
+
+**CV PDF:**
+- Upload to: `files/cv.pdf`
+- Converts your LaTeX CV to PDF
+
+### 3. Customize Configuration
+
+Edit `_config.yml`:
+- Update your information
+- Add your social media links
+- Configure Google Scholar URL
 
 ## Site Structure
 
 ```
 kasitif.github.io/
-├── _config.yml              # Jekyll configuration
-├── index.md                 # Bio page (home)
-├── cv.md                    # Full CV
-├── publications.md          # Research publications
-├── consultancy.md           # Consultancy projects
-├── projects.md              # Research & development projects
-├── _layouts/                # Custom layouts
-│   └── default.html         # Default page layout
-├── assets/                  # Static files
-│   ├── css/
-│   │   └── style.css
-│   ├── pdf/
-│   │   └── cv.pdf           # Downloadable CV
-│   └── images/
-│       ├── profile.jpg      # Your photo
-│       ├── consultancy/     # Consultancy images
-│       └── projects/        # Project images
+├── _config.yml              # Main configuration
+├── _data/
+│   └── navigation.yml       # Top menu navigation
+├── _pages/                  # All content pages
+│   ├── about.md            # Bio (home page)
+│   ├── cv.md               # Full CV
+│   ├── publications.md     # Research papers
+│   ├── consultancy.md      # Advisory work
+│   └── projects.md         # Research projects
+├── images/                  # Photos and images
+│   └── profile.jpg         # YOUR PHOTO HERE
+├── files/                   # PDFs and downloads
+│   └── cv.pdf              # YOUR CV PDF HERE
 ├── Gemfile                  # Ruby dependencies
 ├── .gitignore              # Git exclusions
-├── README.md               # This file
-├── SETUP_INSTRUCTIONS.md   # Deployment guide
-└── IMAGE_GUIDE.md          # Image upload guide
+└── README.md               # This file
 ```
 
-## Pages Overview
+## Pages
 
 - **Bio** (/) - Professional introduction and academic journey
-- **CV** (/cv/) - Full curriculum vitae with experience and skills
 - **Publications** (/publications/) - Research papers and conference proceedings
+- **CV** (/cv/) - Full curriculum vitae
 - **Consultancy** (/consultancy/) - Advisory work and consulting projects
 - **Projects** (/projects/) - Research projects and operational systems
 
-## Building Locally
+## Local Development
 
-To preview the site locally:
+```bash
+# Install dependencies
+bundle install
 
-1. Install Jekyll and Bundler:
-   ```bash
-   gem install jekyll bundler
-   ```
+# Serve locally
+bundle exec jekyll serve
 
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/kasitif/kasitif.github.io.git
-   cd kasitif.github.io
-   ```
+# View at http://localhost:4000
+```
 
-3. Install dependencies:
-   ```bash
-   bundle install
-   ```
+## Updating Content
 
-4. Serve the site:
-   ```bash
-   bundle exec jekyll serve
-   ```
+1. Edit markdown files in `_pages/`
+2. Commit and push to GitHub
+3. Site rebuilds automatically (1-2 minutes)
 
-5. View at `http://localhost:4000`
+## Support
 
-## Deployment
-
-This site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
-
-## Technologies
-
-- **Jekyll** - Static site generator
-- **GitHub Pages** - Hosting
-- **Markdown** - Content formatting
-- **Liquid** - Templating
+- [Academic Pages Documentation](https://github.com/academicpages/academicpages.github.io)
+- [Jekyll Documentation](https://jekyllrb.com/docs/)
+- [GitHub Pages Help](https://docs.github.com/en/pages)
 
 ## License
 
@@ -90,4 +100,4 @@ This site is automatically deployed to GitHub Pages when changes are pushed to t
 
 - Email: [kasitif@gmail.com](mailto:kasitif@gmail.com)
 - LinkedIn: [linkedin.com/in/kasitif](https://www.linkedin.com/in/kasitif)
-- Academic Email: [f.k.isundwa@stir.ac.uk](mailto:f.k.isundwa@stir.ac.uk)
+- GitHub: [github.com/kasitif](https://github.com/kasitif)

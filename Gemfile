@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# GitHub Pages gem - includes Jekyll and dependencies
+# GitHub Pages gem
 gem "github-pages", group: :jekyll_plugins
 
 # Plugins
@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-redirect-from"
+  gem "jekyll-remote-theme"
   gem "jemoji"
 end
 
@@ -24,6 +25,3 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Lock http_parser.rb gem to v0.6.x on JRuby builds
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-
-# Academic Pages theme
-gem "jekyll-remote-theme"
