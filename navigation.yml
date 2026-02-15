@@ -1,9 +1,0 @@
-# main links
-main:
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
-  # Add or remove menu items   
-  - title: "Consultancy"
-    url: /consultancy/
