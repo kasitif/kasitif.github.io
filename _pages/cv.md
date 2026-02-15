@@ -1,20 +1,15 @@
 ---
-layout: default
-title: Curriculum Vitae
+layout: archive
+title: "CV"
 permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-# Curriculum Vitae
+{% include base_path %}
 
-[Download CV (PDF)](../assets/pdf/cv.pdf){: .btn}
-
----
-
-## Professional Summary
-
-Doctoral researcher with over eight years' experience in hydrology, remote sensing, and geospatial analysis. Expertise in Synthetic Aperture Radar (SAR) data processing, machine learning for environmental applications, and community-based flood early warning systems. Strong track record of stakeholder engagement across East Africa and published research in IEEE journals. Currently developing novel SAR-based flood mapping methodologies at the University of Stirling.
-
----
+[Download CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn}
 
 ## Education
 
@@ -81,6 +76,15 @@ Doctoral researcher with over eight years' experience in hydrology, remote sensi
 
 ---
 
+## Selected Consultancies
+
+- **Ministry of Water and Sanitation, Malawi** (2023–ongoing): Establishment of CBFEWS
+- **Climate Action Callander, Scotland** (2023): Flood resilience review for River Teith
+- **UNDP Malawi** (2020–2022): Community-based flood early warning systems implementation
+- **SNV** (2021): Water quality and quantity mapping in Laikipia, Isiolo, and Samburu Counties
+
+---
+
 ## Awards & Funding
 
 - **ESA/CONAE PUMAS Programme** (2025–2027): Global satellite data access and tasking
@@ -124,7 +128,3 @@ Doctoral researcher with over eight years' experience in hydrology, remote sensi
 ## References
 
 Available upon request.
-
----
-
-*Last updated: February 2025*
