@@ -1,12 +1,17 @@
 ---
-layout: default
-title: Curriculum Vitae
+layout: archive
+title: "CV"
 permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 # Curriculum Vitae
 
-[Download CV (PDF)](../assets/pdf/cv.pdf){: .btn}
+[Download CV (PDF)](../files/cv.pdf){: .btn}
 
 ---
 

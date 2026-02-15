@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Consultancy"
+    url: /consultancy/
+    
+  - title: "Projects"
+    url: /projects/
