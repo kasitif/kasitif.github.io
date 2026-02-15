@@ -1,24 +1,9 @@
 ---
 layout: default
-title: Felix Kasiti Isundwa - Bio
+title: Bio
 ---
 
-<div class="profile-header">
-  <div class="profile-image">
-    <img src="assets/images/profile.jpg" alt="Felix Kasiti Isundwa">
-  </div>
-  <div class="profile-info">
-    <h1>Felix Kasiti Isundwa</h1>
-    <p class="subtitle">PhD Researcher at the University of Stirling</p>
-    <div class="contact-links">
-      <p>📍 Stirling, Scotland, UK</p>
-      <p>📧 <a href="mailto:kasitif@gmail.com">kasitif@gmail.com</a> | <a href="mailto:f.k.isundwa@stir.ac.uk">f.k.isundwa@stir.ac.uk</a></p>
-      <p>🔗 <a href="https://www.linkedin.com/in/kasitif" target="_blank">LinkedIn</a> | <a href="https://github.com/kasitif" target="_blank">GitHub</a> | <a href="https://scholar.google.com" target="_blank">Google Scholar</a></p>
-    </div>
-  </div>
-</div>
-
----
+# Bio
 
 ## Introduction
 
