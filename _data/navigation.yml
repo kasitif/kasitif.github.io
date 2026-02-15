@@ -1,5 +1,8 @@
 # Main navigation links
 main:
+- title: "Bio"
+    url: /about/
+    
   - title: "Publications"
     url: /publications/
     
