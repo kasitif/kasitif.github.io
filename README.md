@@ -4,7 +4,7 @@ My professional CV and portfolio site, built with Jekyll and hosted on GitHub Pa
 
 ## About This Site
 
-This is a personal CV website for Felix Kasiti Isundwa, showcasing my research, publications, and professional experience in remote sensing and hydrology.
+This is a personal CV website for Felix Kasiti Isundwa, showcasing my research, publications, professional experience, consultancy work, and projects in remote sensing and hydrology.
 
 **Live Site:** [kasitif.github.io](https://kasitif.github.io)
 
@@ -12,22 +12,37 @@ This is a personal CV website for Felix Kasiti Isundwa, showcasing my research, 
 
 ```
 kasitif.github.io/
-├── _config.yml          # Jekyll configuration
-├── index.md             # Home page (CV)
-├── about.md             # About page (optional)
-├── _layouts/            # Custom layouts
-│   └── default.html     # Default page layout
-├── _includes/           # Reusable components
-│   ├── header.html
-│   └── footer.html
-├── assets/              # Static files
+├── _config.yml              # Jekyll configuration
+├── index.md                 # Bio page (home)
+├── cv.md                    # Full CV
+├── publications.md          # Research publications
+├── consultancy.md           # Consultancy projects
+├── projects.md              # Research & development projects
+├── _layouts/                # Custom layouts
+│   └── default.html         # Default page layout
+├── assets/                  # Static files
 │   ├── css/
 │   │   └── style.css
 │   ├── pdf/
-│   │   └── cv.pdf       # Downloadable CV
+│   │   └── cv.pdf           # Downloadable CV
 │   └── images/
-└── README.md            # This file
+│       ├── profile.jpg      # Your photo
+│       ├── consultancy/     # Consultancy images
+│       └── projects/        # Project images
+├── Gemfile                  # Ruby dependencies
+├── .gitignore              # Git exclusions
+├── README.md               # This file
+├── SETUP_INSTRUCTIONS.md   # Deployment guide
+└── IMAGE_GUIDE.md          # Image upload guide
 ```
+
+## Pages Overview
+
+- **Bio** (/) - Professional introduction and academic journey
+- **CV** (/cv/) - Full curriculum vitae with experience and skills
+- **Publications** (/publications/) - Research papers and conference proceedings
+- **Consultancy** (/consultancy/) - Advisory work and consulting projects
+- **Projects** (/projects/) - Research projects and operational systems
 
 ## Building Locally
 
