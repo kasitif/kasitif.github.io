@@ -63,7 +63,6 @@ Applied a polarimetric SAR-based methodology for monitoring invasive water hyaci
 ### Tanzania Streamflow Monitoring System
 **Organization:** SERVIR Eastern & Southern Africa  
 **Duration:** 2019 – 2022 (Operational since 2021)  
-**Website:** [streamflowmonitor.rcmrd.org](http://streamflowmonitor.rcmrd.org/)
 
 Led the development of Tanzania's first operational streamflow monitoring and forecasting system. The platform provides real-time and forecasted streamflow for over 50 major rivers, supporting water resources management, hydropower operations, and flood early warning.
 
