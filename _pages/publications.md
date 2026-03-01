@@ -72,21 +72,8 @@ Initial findings from multi-temporal polarimetric classification of aquatic vege
 **Isundwa, F. K.**, et al. (In Preparation). *Flood Extent Mapping in Vegetated Wetlands Using Polarimetric SAR Decomposition Techniques.*  
 Target journal: *IEEE Transactions on Geoscience and Remote Sensing*. Novel decomposition-based water detection framework validated against drone surveys in Scottish floodplains.
 
-**Isundwa, F. K.**, et al. (In Preparation). *Deep Learning Integration of SAR and Crowdsourced Social Media Data for Rapid Flood Impact Assessment.*  
-Developed during SEPA placement (2025); combines NLP event detection and computer vision damage classification with Sentinel-1 SAR for near-real-time situational awareness.
+**Isundwa, F. K.**, et al. (In Preparation). *Flood Simulation using Quad-Pol ground based SAR.*  
 
----
-
-## Technical Reports
-
-Scottish Environment Protection Agency (SEPA). (2025). *Social Media and Earth Observation Integration for Disaster Response: Methodology and Pilot Results.*  
-Contributed deep learning pipeline design, geotagged data processing workflows, and integration with SEPA's operational flood forecasting system.
-
-SERVIR Eastern & Southern Africa / RCMRD. (2021). *Hydrological Modelling Framework for Operational Streamflow Monitoring in Tanzania.*  
-Led development; framework underpins the live system at [streamflowmonitor.rcmrd.org](http://streamflowmonitor.rcmrd.org/).
-
-SERVIR Eastern & Southern Africa / RCMRD. (2020). *Rapid Flood Damage Assessment — Western Kenya 2020.*  
-Sentinel-1 SAR and Google Earth Engine analysis informing humanitarian response for 15,000+ affected households.
 
 ---
 
@@ -99,7 +86,7 @@ Sentinel-1 SAR and Google Earth Engine analysis informing humanitarian response 
 | IGARSS 2024 — SAR Polarimetry Flood Mapping, Imola | Aug 2024 | Oral |
 | EUSAR 2024 — Water Hyacinth Temporal Trends, Lake Victoria | Apr 2024 | Oral |
 | InGARSS 2023 — Water Hyacinth PolSAR Assessment, Lake Victoria | Dec 2023 | Oral |
-| IEEE GRSS PolSAR School, University of Stirling | Dec 2024 | Technical Presentation |
+| IAPETUS - Flood mapping using SAR polarimetry | May 2024, 2025 | Technical Presentation |
 | ESA/DLR PolInSAR Course | Nov 2023–Feb 2024 | Participant |
 
 ---
@@ -109,7 +96,7 @@ Sentinel-1 SAR and Google Earth Engine analysis informing humanitarian response 
 Research code, processing workflows, and reproducible notebooks are shared openly on GitHub:  
 [github.com/kasitif](https://github.com/kasitif)
 
-Repositories include polarimetric SAR processing tools, Google Earth Engine scripts for water resources monitoring, and training notebooks for SAR remote sensing.
+Repositories include polarimetric SAR processing tools, Google Earth Engine scripts for water resources monitoring, and training notebooks for SAR remote sensing (coming soon).
 
 ---
 
