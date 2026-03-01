@@ -1,10 +1,9 @@
 ---
-permalink: /publications/
+layout: archive
 title: "Publications"
-excerpt: "Research outputs and academic contributions"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
+redirect_from:
   - /publications.html
 ---
 
