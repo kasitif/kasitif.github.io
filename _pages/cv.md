@@ -131,6 +131,7 @@ redirect_from:
 - 8th Advanced Training Course on Radar Polarimetry, European Space Agency (2023)
 - IEEE GRSS PolSAR School 2024, University of Stirling (Dec 2024)
 - 6th ESA/DLR PolInSAR Course (Nov 2023 – Feb 2024)
+- A Practical Introduction to 2D River Modelling in HEC-RAS (Online), Udemy (2023)
 - Gender Training, USAID (2021)
 - Wastewater Treatment, HYDROAID (2020)
 - Echoes in Space: Radar Remote Sensing with SAR, European Space Agency (2019)
