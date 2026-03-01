@@ -11,9 +11,9 @@ redirect_from:
 
 ## Felix Kasiti Isundwa
 
+- LinkedIn: [linkedin.com/in/kasitif](https://www.linkedin.com/in/kasitif)
+- GitHub: [github.com/kasitif](https://github.com/kasitif)
 
-Linkedin            : [kasitif](https://www.linkedin.com/in/kasitif/)/))
-Email               :  "kasitif@gmail.com
 
 
 ## Professional Experience
