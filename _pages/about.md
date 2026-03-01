@@ -17,7 +17,7 @@ I have over eight years of experience spanning academic research, operational hy
 
 ## Research Interests
 
-- **Polarimetric SAR** — decomposition techniques for water body detection in complex terrain
+- **Polarimetric SAR** — signal decomposition and change detection techniques for flood detection in complex environment
 - **Machine Learning** — deep learning for automated flood mapping and damage assessment
 - **Operational Hydrology** — real-time streamflow prediction integrating satellite precipitation and soil moisture
 - **Community Early Warning** — converting geospatial data into actionable local flood warnings
