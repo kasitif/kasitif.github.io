@@ -14,7 +14,7 @@ repository               : "kasitif/kasitif.github.io"
 # Site Author - Controls sidebar content
 author:
   # Biographic information
-  avatar           : "profile.jpg"  # Put profile.jpg in /images/ folder
+  avatar           : "scale.jpg"  # Put profile.jpg in /images/ folder
   name             : "Felix Kasiti Isundwa"
   pronouns         : # example: "he/him"  
   bio              : "PhD Researcher at the University of Stirling"
