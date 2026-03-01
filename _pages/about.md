@@ -27,10 +27,10 @@ I have over eight years of experience spanning academic research, operational hy
 ## Career Highlights
 
 **Scottish Environment Protection Agency** *(Feb–Jul 2025, Placement)*  
-Designed deep learning pipelines integrating real-time social media data (NLP + computer vision) for rapid flood impact assessment and situational awareness.
+Designed deep learning pipelines integrating real-time social media data (NLP) for rapid flood impact assessment and situational awareness.
 
 **SERVIR Eastern & Southern Africa, RCMRD** *(2019–2022)*  
-Led development of Tanzania's first operational streamflow monitoring system ([streamflowmonitor.rcmrd.org](http://streamflowmonitor.rcmrd.org/)) and implemented community-based flood early warning systems across four East African countries.
+Led development of operational streamflow monitoring system in Tanzania ([streamflowmonitor.rcmrd.org](http://streamflowmonitor.rcmrd.org/)) and implemented community-based flood early warning systems across Malawi.
 
 **Hydrosan Limited, Kenya** *(2013–2018)*  
 Conducted hydrological and hydrogeological assessments for 300+ water points; led environmental impact assessments and catchment management planning.
