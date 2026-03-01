@@ -86,7 +86,7 @@ redirect_from:
 
 
 ### Intern
-*** Water Resources Management Authority (WRMA) | Eldoret, Kenya | *May 2013-August 2013*
+**Water Resources Management Authority (WRMA)** | Eldoret, Kenya | *May 2013-August 2013*
 - Assisted in hydrological and hydrogeological surveys and water quality sampling under supervision, gaining practical experience in field data collection and basic hydrological analysis.
 - Contributed to the development of a Sub-Catchment Management Plan (SCMP) by supporting community workshops, training sessions, and capacity-building activities.
 - Performed data entry and analysis of rainfall, evaporation, evapotranspiration, river discharge, and groundwater datasets, strengthening skills in data cleaning, analysis, and technical reporting
@@ -95,10 +95,12 @@ redirect_from:
 
 ## Selected Consultancies
 
-- **Ministry of Water and Sanitation, Malawi** (2023–ongoing): Establishment of CBFEWS
+
 - **Climate Action Callander, Scotland** (2023): Flood resilience review for River Teith
 - **UNDP Malawi** (2020–2022): Community-based flood early warning systems implementation
+- **Sanivation** (2021-2022): FSM baseline assessment for Kisii-Nyamira county and Nyahururu  
 - **SNV** (2021): Water quality and quantity mapping in Laikipia, Isiolo, and Samburu Counties
+
 
 ---
 
@@ -145,6 +147,9 @@ redirect_from:
 - IEEE Student Member
 - UN-Space Space4Water Network Young Professional – [space4water.org/person/kasiti](https://www.space4water.org/person/kasiti)
 - Hydrological Society of Kenya – Elected Official, Programs Committee (2021–2025)
+- IEEE Student Member
+- National Environmental Management Authority (NEMA), Kenya – Associate Expert
+- Western Indian Ocean Early Career Scientist Network – Member
 
 ---
 
