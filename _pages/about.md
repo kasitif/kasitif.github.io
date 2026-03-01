@@ -1,14 +1,15 @@
 ---
+layout: archive
 permalink: /
 title: "Bio"
 excerpt: "About Felix Kasiti Isundwa"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD researcher at the University of Stirling (NERC-funded, 2022–2026), developing polarimetric Synthetic Aperture Radar (SAR) methodologies for flood mapping and environmental monitoring. My work combines satellite radar data (Sentinel-1, ALOS-2, UAVSAR), drone imagery, ground radar, and machine learning to detect and monitor floods in near-real-time — with a focus on vegetated floodplains, and wetlands.
+I am a PhD researcher at the University of Stirling (NERC-funded, 2022–2026), developing polarimetric Synthetic Aperture Radar (SAR) methodologies for flood mapping and environmental monitoring. My work combines satellite radar data (Sentinel-1, ALOS-2, UAVSAR), drone imagery, and machine learning to detect and monitor floods in near-real-time — with a focus on vegetated floodplains, urban areas, and wetlands.
 
 I have over eight years of experience spanning academic research, operational hydrology, and community engagement across East Africa and Scotland, and I am committed to translating research into solutions that protect communities and inform environmental policy.
 
@@ -29,7 +30,7 @@ I have over eight years of experience spanning academic research, operational hy
 Designed deep learning pipelines integrating real-time social media data (NLP + computer vision) for rapid flood impact assessment and situational awareness.
 
 **SERVIR Eastern & Southern Africa, RCMRD** *(2019–2022)*  
-Led development of Tanzania's first operational streamflow monitoring system and implemented community-based flood early warning systems in Eastern and Southern Africa country - Malawi.
+Led development of Tanzania's first operational streamflow monitoring system ([streamflowmonitor.rcmrd.org](http://streamflowmonitor.rcmrd.org/)) and implemented community-based flood early warning systems across four East African countries.
 
 **Hydrosan Limited, Kenya** *(2013–2018)*  
 Conducted hydrological and hydrogeological assessments for 300+ water points; led environmental impact assessments and catchment management planning.
