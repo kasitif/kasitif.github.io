@@ -49,7 +49,7 @@ redirect_from:
 ### Assistant Hydrologist
 **SERVIR Eastern & Southern Africa, RCMRD** | Nairobi, Kenya | *Aug 2019–Sep 2022*
 
-- Led development of operational hydrological model for Tanzania using VIC model ([streamflowmonitor.rcmrd.org](http://streamflowmonitor.rcmrd.org/))
+- Led development of operational hydrological model for Tanzania using VIC model
 - Implemented community-based flood early warning systems (CBFEWS) across Malawi
 - Led the collation and preparation of remose sensing and climate forcing to run hydrological models
 - Conducted flood risk assessments, hydraulic modelling (HEC RAS), and stakeholder training
