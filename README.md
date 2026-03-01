@@ -25,6 +25,6 @@ Built using [Academic Pages](https://github.com/academicpages/academicpages.gith
 
 ## Contact
 
-- Email: [kasitif@gmail.com](mailto:f.k.isundwa@stir.ac.uk)
+
 - LinkedIn: [linkedin.com/in/kasitif](https://www.linkedin.com/in/kasitif)
 - GitHub: [github.com/kasitif](https://github.com/kasitif)
