@@ -159,9 +159,7 @@ kramdown:
 
 # Collections
 collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # publications collection removed — permalink conflicts with _pages/publications.md
   consultancy:
     output: true
     permalink: /:collection/:path/
@@ -189,15 +187,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _consultancy
   - scope:
       path: ""

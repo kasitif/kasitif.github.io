@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="{{ site.author }}">
+    <meta name="author" content="{{ site.author.name }}">
     
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     
@@ -17,7 +17,7 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="site-wrapper">
@@ -25,32 +25,46 @@
         <aside class="sidebar">
             <div class="sidebar-content">
                 <div class="profile-section">
-                    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Felix Kasiti Isundwa" class="profile-photo">
-                    <h1 class="profile-name">Felix Kasiti Isundwa</h1>
-                    <p class="profile-title">PhD Researcher at the University of Stirling</p>
+                    <!-- FIX: avatar path uses site.author.avatar, served from /images/ -->
+                    <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" 
+                         alt="{{ site.author.name }}" 
+                         class="profile-photo">
+                    <h1 class="profile-name">{{ site.author.name }}</h1>
+                    <p class="profile-title">{{ site.author.bio }}</p>
                 </div>
 
                 <div class="contact-section">
                     <div class="contact-item">
                         <span class="icon">📍</span>
-                        <span>Stirling, Scotland, UK</span>
+                        <span>{{ site.author.location }}</span>
                     </div>
+                    {% if site.author.email %}
                     <div class="contact-item">
                         <span class="icon">📧</span>
-                        <a href="mailto:{{ site.email }}">Email</a>
+                        <!-- FIX: was site.email → site.author.email -->
+                        <a href="mailto:{{ site.author.email }}">Email</a>
                     </div>
+                    {% endif %}
+                    {% if site.author.googlescholar %}
                     <div class="contact-item">
                         <span class="icon">🎓</span>
-                        <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+                        <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
                     </div>
+                    {% endif %}
+                    {% if site.author.linkedin %}
                     <div class="contact-item">
                         <span class="icon">💼</span>
-                        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">LinkedIn</a>
+                        <!-- FIX: was site.linkedin_username → site.author.linkedin -->
+                        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a>
                     </div>
+                    {% endif %}
+                    {% if site.author.github %}
                     <div class="contact-item">
                         <span class="icon">💻</span>
-                        <a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a>
+                        <!-- FIX: was site.github_username → site.author.github -->
+                        <a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a>
                     </div>
+                    {% endif %}
                     <div class="contact-item">
                         <span class="icon">🌊</span>
                         <a href="https://www.space4water.org/person/kasiti" target="_blank">Space4Water</a>
@@ -58,7 +72,7 @@
                 </div>
 
                 <div class="sidebar-footer">
-                    <p class="copyright">© {{ 'now' | date: "%Y" }} Felix Kasiti Isundwa</p>
+                    <p class="copyright">© {{ 'now' | date: "%Y" }} {{ site.author.name }}</p>
                     <p class="powered-by">Powered by <a href="https://jekyllrb.com" target="_blank">Jekyll</a></p>
                 </div>
             </div>
@@ -84,11 +98,10 @@
         </div>
     </div>
 
-    <!-- Mobile Menu Toggle (for responsive) -->
+    <!-- Mobile Menu Toggle -->
     <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
 
     <script>
-        // Simple mobile menu toggle
         document.querySelector('.mobile-menu-toggle').addEventListener('click', function() {
             document.querySelector('.sidebar').classList.toggle('active');
         });
