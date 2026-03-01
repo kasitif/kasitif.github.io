@@ -70,7 +70,6 @@ Initial findings from multi-temporal polarimetric classification of aquatic vege
 ## In Preparation
 
 **Isundwa, F. K.**, et al. (In Preparation). *Flood Extent Mapping in Vegetated Wetlands Using Polarimetric SAR Decomposition Techniques.*  
-Target journal: *IEEE Transactions on Geoscience and Remote Sensing*. Novel decomposition-based water detection framework validated against drone surveys in Scottish floodplains.
 
 **Isundwa, F. K.**, et al. (In Preparation). *Flood Simulation using Quad-Pol ground based SAR.*  
 
