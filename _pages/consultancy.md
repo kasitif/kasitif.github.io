@@ -124,4 +124,3 @@ My consultancy services focus on:
 
 I am available for consultancy on projects related to flood risk management, water resources assessment, remote sensing applications, and community-based disaster risk reduction.
 
-**Contact:** [kasitif@gmail.com](mailto:kasitif@gmail.com)
