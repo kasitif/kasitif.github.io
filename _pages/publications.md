@@ -3,6 +3,9 @@ permalink: /publications/
 title: "Publications"
 excerpt: "Research outputs and academic contributions"
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 {% include base_path %}
