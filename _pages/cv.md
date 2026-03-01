@@ -13,6 +13,7 @@ redirect_from:
 
 - LinkedIn: [linkedin.com/in/kasitif](https://www.linkedin.com/in/kasitif)
 - GitHub: [github.com/kasitif](https://github.com/kasitif)
+- Email: [kasitif@gmail.com](mailto:kasitif@gmail.com)
 
 
 
