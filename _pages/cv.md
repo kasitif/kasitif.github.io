@@ -10,26 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-## Education
 
-### PhD Environmental Science (SAR Flood Mapping)
-**University of Stirling** | Scotland, UK | *2022–2026 (expected)*
-
-- Funded by UK Natural Environment Research Council (NERC)
-- Thesis: Mapping and monitoring floods using Synthetic Arpertur Radar (SAR) Polarimetry
-- Application of polarimetric change detection in mapping open flood
-- Development of polarimetric change detection method for mapping floods under vegetation
-- Developing field-tested methodologies for floodplain and wetland management
-
-### MSc Water Science (Policy and Governance)
-**Pan-African University (PAUWES)** | Algeria | *2016–2018*
-
-- African Union fully-funded scholarship
-
-### BSc Earth Science
-**Maseno University** | Kenya | *2009–2013*
-
----
 
 ## Professional Experience
 
@@ -90,6 +71,26 @@ redirect_from:
 - Assisted in hydrological and hydrogeological surveys and water quality sampling under supervision, gaining practical experience in field data collection and basic hydrological analysis.
 - Contributed to the development of a Sub-Catchment Management Plan (SCMP) by supporting community workshops, training sessions, and capacity-building activities.
 - Performed data entry and analysis of rainfall, evaporation, evapotranspiration, river discharge, and groundwater datasets, strengthening skills in data cleaning, analysis, and technical reporting
+
+---
+## Education
+
+### PhD Environmental Science (SAR Flood Mapping)
+**University of Stirling** | Scotland, UK | *2022–2026 (expected)*
+
+- Funded by UK Natural Environment Research Council (NERC)
+- Thesis: Mapping and monitoring floods using Synthetic Arpertur Radar (SAR) Polarimetry
+- Application of polarimetric change detection in mapping open flood
+- Development of polarimetric change detection method for mapping floods under vegetation
+- Developing field-tested methodologies for floodplain and wetland management
+
+### MSc Water Science (Policy and Governance)
+**Pan-African University (PAUWES)** | Algeria | *2016–2018*
+
+- African Union fully-funded scholarship
+
+### BSc Earth Science
+**Maseno University** | Kenya | *2009–2013*
 
 ---
 
