@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# GitHub Pages gem
+# GitHub Pages gem — pins Jekyll and all compatible plugin versions
 gem "github-pages", group: :jekyll_plugins
 
 # Plugins
@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-redirect-from"
   gem "jekyll-remote-theme"
+  gem "jekyll-paginate"      # FIX: was missing; required by _config.yml plugins list
   gem "jemoji"
 end
 
