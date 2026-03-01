@@ -121,15 +121,10 @@ redirect_from:
 ## Technical Skills
 
 **Programming:** Python, R, JavaScript, Google Earth Engine
-
 **Remote Sensing:** SAR processing (PolSARpro, SNAP), Ground radar data processing (focusing, calibration) optical imagery, drone data analysis
-
 **GIS:** ArcGIS, QGIS, spatial data analysis, cartography
-
 **Modelling:** Hydrological modelling (SWAT, VIC, CREST), hydraulic modelling (HEC RAS)
-
 **Machine Learning:** Deep learning, TensorFlow, PyTorch, scikit-learn
-
 **Data Collection:** Field surveys, KoboToolbox, ODK, hydrological sampling
 
 ---
