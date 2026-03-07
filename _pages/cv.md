@@ -145,10 +145,9 @@ redirect_from:
 
 ## Professional Memberships
 
-- IEEE Student Member
+- IEEE-GRSS Student Member
 - UN-Space Space4Water Network Young Professional – [space4water.org/person/kasiti](https://www.space4water.org/person/kasiti)
 - Hydrological Society of Kenya – Elected Official, Programs Committee (2021–2025)
-- IEEE Student Member
 - National Environmental Management Authority (NEMA), Kenya – Associate Expert
 - Western Indian Ocean Early Career Scientist Network – Member
 
