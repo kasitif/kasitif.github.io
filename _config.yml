@@ -25,12 +25,12 @@ author:
 
   # Academic websites
   arxiv            : # URL - e.g. "https://arxiv.org/search/cs?searchtype=author&query=Isundwa"
-  googlescholar    : "https://scholar.google.com"
+  googlescholar    : "https://scholar.google.com/citations?user=qoqLfCAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "https://orcid.org/YOUR-ORCID-ID"
+  orcid            : "https://orcid.org/0000-0001-9776-0580" # "https://orcid.org/YOUR-ORCID-ID"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=YOUR+NAME"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Felix-Isundwa?ev=hdr_xprf" # URL
 
   # Repositories and software development
   bitbucket        : # Username
