@@ -7,11 +7,34 @@ author_profile: true
 
 {% include base_path %}
 
-Over the years, I have provided technical expertise to governments, international organizations, and NGOs across East Africa and Scotland, specializing in flood early warning systems, water resources management, and geospatial analysis.
+Over the years, I have provided technical expertise to governments, 
+international organisations, and NGOs across East Africa and Scotland, 
+specialising in flood early warning systems, water resources management, 
+and geospatial analysis.
+
+---
 
 ## Current Projects
 
+### Community-Based Flood Early Warning Systems
+**Client:** Ministry of Water and Sanitation, Malawi  
+**Duration:** 2023 – 2024
 
+Led the establishment of community-based flood early warning systems 
+across multiple districts in Malawi as Lead Hydrologist and Remote 
+Sensing Expert. The project involved flood risk assessment, technical 
+infrastructure design, community training, development of Standard 
+Operating Procedures (SOPs), and establishment of monitoring networks.
+
+**Key Deliverables:**
+- Flood risk assessment and hazard mapping using GIS and Earth 
+observation data
+- Installation of automatic weather stations and river gauges
+- Community training on flood monitoring and response protocols
+- Development of early warning dissemination channels
+- Integration with national disaster management systems
+
+---
 
 ## Completed Projects
 
@@ -20,32 +43,37 @@ Over the years, I have provided technical expertise to governments, internationa
 **Duration:** 2023  
 **Location:** Callander, Scotland
 
-Conducted a comprehensive flood resilience assessment for the River Teith catchment. The study combined hydrological modeling, geospatial analysis, and stakeholder engagement to identify flood risks and recommend nature-based solutions.
+Conducted a flood resilience assessment for the River Teith catchment, 
+combining SAR-derived flood extent data, hydrological modelling outputs, 
+and stakeholder engagement to identify flood risks and recommend 
+mitigation measures.
 
 **Key Deliverables:**
-- Flood hazard mapping using hydraulic models
+- Flood hazard mapping using SAR-derived flood extent data
 - Assessment of natural flood management opportunities
 - Community consultation and vulnerability assessment
-- Recommendations for green infrastructure interventions
-
-**Impact:** Informed local climate adaptation strategy and secured funding for nature-based flood management projects.
+- Recommendations for flood risk mitigation interventions
 
 ---
 
-### Community-Based Flood Early Warning Systems Implementation
+### Community-Based Flood Early Warning Systems
 **Client:** United Nations Development Programme (UNDP) Malawi  
 **Duration:** 2020 – 2022
 
-Implemented comprehensive community-based flood early warning systems in four districts of Malawi. This multi-year project established sustainable frameworks for flood monitoring, community preparedness, and disaster response coordination.
+Led the technical implementation of community-based flood early warning 
+systems in Malawi, integrating Sentinel-1 SAR-derived flood extents, 
+telemetric water level sensors, and satellite-based streamflow forecasts 
+(GEOGLOWS) into operational early warning frameworks for flood-prone 
+communities.
 
 **Key Deliverables:**
-- Established 15 community flood monitoring committees
-- Installed rainfall and water level monitoring equipment
-- Developed mobile-based alert dissemination system
-- Trained 200+ community volunteers on flood monitoring protocols
-- Created district-level coordination mechanisms with government agencies
-
-**Impact:** Reduced flood-related casualties by 40% in project areas through improved early warning lead times.
+- Flood risk assessments and site scoping for priority intervention areas
+- Design and installation of telemetric river gauge systems
+- Integration of Sentinel-1 SAR flood extents with streamflow forecasts
+- Development of Standard Operating Procedures (SOPs) for community 
+flood response
+- Training of government staff and community stakeholders on early 
+warning protocols
 
 ---
 
@@ -54,44 +82,36 @@ Implemented comprehensive community-based flood early warning systems in four di
 **Duration:** 2021  
 **Location:** Laikipia, Isiolo, and Samburu Counties, Kenya
 
-Conducted comprehensive water resources assessment in three arid and semi-arid counties of Kenya. The project combined field sampling, remote sensing analysis, and GIS mapping to assess water availability and quality for pastoral communities.
+Conducted an integrated regional water resource assessment across three 
+arid and semi-arid counties of Kenya, combining field sampling, remote 
+sensing analysis, and GIS mapping to assess water availability and 
+quality for pastoral communities.
 
 **Key Deliverables:**
-- Baseline water quality assessment (physical, chemical, bacteriological parameters)
+- Baseline water quality assessment across physical, chemical, and 
+bacteriological parameters
 - Mapping of water points and seasonal water availability
 - Analysis of water demand patterns across pastoral communities
 - Recommendations for sustainable water resources management
-- Interactive web-based water resources atlas
-
-**Impact:** Informed targeted interventions for water security in 50+ pastoral settlements.
-
----
-
-## Advisory Roles
-
-### Technical Advisory Committee Member
-**Lake Victoria Basin Commission** | *2020 – 2022*
-
-Provided technical guidance on transboundary water resources monitoring and flood early warning systems for the Lake Victoria Basin, working with governments of Kenya, Uganda, Tanzania, Rwanda, and Burundi.
-
-### Expert Consultant
-**World Bank – Transforming Irrigation Management and Investment Project (TIMIP)** | *2019*
-
-Supported the development of irrigation infrastructure planning tools using satellite remote sensing and GIS for improved water allocation in Kenya.
 
 ---
 
 ## Expertise Areas
 
-My consultancy services focus on:
-
-- **Flood Early Warning Systems**: Design, implementation, and capacity building
-- **Hydrological Modeling**: Rainfall-runoff modeling, hydraulic modeling, flood risk assessment
-- **Remote Sensing Applications**: Satellite-based water resources monitoring, land use change detection
-- **GIS Analysis**: Spatial planning, catchment delineation, suitability analysis
-- **Community Engagement**: Participatory approaches to disaster risk reduction
-- **Capacity Building**: Training on geospatial tools and flood monitoring protocols
-- **Policy Support**: Evidence-based recommendations for water resources management
+- **Flood Early Warning Systems:** Design, implementation, and 
+capacity building
+- **Hydrological Modelling:** Rainfall-runoff modelling, hydraulic 
+modelling, flood risk assessment
+- **Remote Sensing Applications:** SAR-based flood mapping, satellite 
+water resources monitoring, land use change detection
+- **GIS Analysis:** Spatial planning, catchment delineation, 
+suitability analysis
+- **Community Engagement:** Participatory approaches to disaster 
+risk reduction
+- **Capacity Building:** Training on geospatial tools, hydrological 
+modelling, and flood monitoring protocols
+- **Policy Support:** Evidence-based recommendations for water 
+resources management
 
 ---
 
@@ -102,11 +122,11 @@ My consultancy services focus on:
 - Climate Change Adaptation
 - Environmental Impact Assessment
 - Community Development
-- Agriculture & Irrigation
 
 ---
 
 ## Interested in Working Together?
 
-I am available for consultancy on projects related to flood risk management, water resources assessment, remote sensing applications, and community-based disaster risk reduction.
-
+I am available for consultancy on projects related to flood risk 
+management, water resources assessment, remote sensing applications, 
+and community-based disaster risk reduction.
