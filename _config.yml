@@ -246,4 +246,4 @@ compress_html:
     envs: development
 
 # Theme
-remote_theme: "academicpages/academicpages.github.io"
+remote_theme: "academicpages/academicpages.github.io@v7.2.0"
