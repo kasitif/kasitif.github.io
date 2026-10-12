@@ -16,7 +16,8 @@ Neil, C., Perez, C. S., & Silva, T. S. F. (2026). *Analytical
 Optimisation of Polarimetric Change Detectors for Mapping Open and 
 Grassland Flooding Using Sentinel-1: Case of Rupununi, Guyana*. 
 **IEEE Journal of Selected Topics in Applied Earth Observations and 
-Remote Sensing**. **Accepted for publication.**  
+Remote Sensing**.  
+[https://doi.org/10.1109/JSTARS.2026.3739494](https://doi.org/10.1109/JSTARS.2026.3739494)  
 Analytically optimised polarimetric change detectors for mapping 
 flooding in open and grassland environments, applied to the North 
 Rupununi wetlands in Guyana using Sentinel-1 data.
