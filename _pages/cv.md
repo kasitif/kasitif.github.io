@@ -15,141 +15,200 @@ redirect_from:
 - GitHub: [github.com/kasitif](https://github.com/kasitif)
 - Email: [kasitif@gmail.com](mailto:kasitif@gmail.com)
 
-
+---
 
 ## Professional Experience
 
-### Doctoral Researcher
-**University of Stirling, NERC-funded** | Scotland, UK | *Oct 2022–Present*
+### PhD Researcher
+**University of Stirling, NERC-funded** | Stirling, Scotland, UK | *Oct 2022–Present*
 
-- Developing novel polarimetric SAR methodologies for flood extent mapping
-- Processing satellite data from Sentinel-1, ALOS-2, and SAOCOM platforms
-- Simulating floods and Satellite-SAR data using ground radar
-- Publishing findings in peer-reviewed IEEE journals and international conferences
-- Collaborating with Scottish Environment Protection Agency on operational flood monitoring
+Developed, applied, and published novel polarimetric SAR change detection 
+methods for flood mapping by designing and validating algorithms across 
+Sentinel-1, SAOCOM, and ALOS-2 datasets, resulting in three first-author 
+publications in IEEE JSTARS and presentations at six major international 
+conferences including IGARSS, EUSAR, ESA Biomass PolInSAR, and EGU. 
+Advanced the physical understanding of multiband SAR backscatter under 
+flooding conditions by designing and conducting a controlled ground-based 
+radar experiment, generating findings currently in preparation for 
+publication. Increased accessibility of SAR-based flood mapping by 
+independently developing an interactive web application automating 
+Sentinel-1 change detection, tested across four countries.
 
-### Placement Researcher
+### Research Placement Student
 **Scottish Environment Protection Agency (SEPA)** | Stirling, UK | *Feb 2025–Jul 2025*
 
-- Designing deep learning models integrating real-time social media data for disaster response
-- Developing geotagged data pipelines for floods, droughts, and storms early warning
-- Supporting impact assessment and early action decision-making
+Strengthened operational flood response in Scotland by designing a 
+near-real-time disaster intelligence system that integrated satellite 
+emergency mapping with deep learning-based classification of social and 
+mainstream media feeds, supporting faster situational awareness for flood 
+managers during active flood events.
 
 ### Graduate Teaching Assistant
 **University of Stirling** | Scotland, UK | *Sep 2024–Jul 2025*
 
-- Supporting practical sessions for postgraduate students in GIS and remote sensing
+Facilitated postgraduate GIS and remote sensing practicals and mentored 
+students in reproducible geospatial data science practices using Python 
+and Git.
 
 ### Research Assistant
 **University of Stirling** | Scotland, UK | *Nov 2022–Mar 2023*
 
-- Analysed satellite data for aquatic vegetation (Water Hyacinth) mapping in Lake Victoria
-- Authored a publication on water hyacinth monitoring using polarimetric radar
+Analysed polarimetric SAR data for aquatic vegetation mapping in Lake 
+Victoria, contributing to a first-author publication on water hyacinth 
+monitoring using polarimetric radar (IEEE JSTARS, 2024).
 
 ### Assistant Hydrologist
 **SERVIR Eastern & Southern Africa, RCMRD** | Nairobi, Kenya | *Aug 2019–Sep 2022*
 
-- Led development of operational hydrological model for Tanzania using VIC model
-- Implemented community-based flood early warning systems (CBFEWS) across Malawi
-- Led the collation and preparation of remose sensing and climate forcing to run hydrological models
-- Conducted flood risk assessments, hydraulic modelling (HEC RAS), and stakeholder training
-- Assessed flood damages in Western Kenya (2020) using Google Earth Engine and remote sensing
-- Managed geospatial data for EF5, VIC, and CREST hydrological models
+Improved streamflow forecasting accuracy for the Great Ruaha basin, 
+Tanzania, by leading the full operational deployment, land-surface 
+parameterisation, and calibration of a VIC-based forecasting system, 
+evaluated against USGS-equivalent gauge observations using NSE, RMSE, 
+and bias metrics. Delivered end-to-end flood early warning capability 
+to flood-prone communities in Malawi by leading the implementation of a 
+community-based flood early warning system (CBFEWS), combining telemetric 
+water level sensors, Sentinel-1 SAR-derived flood extents, and satellite 
+streamflow forecasts (GEOGLOWS) under a UNDP-funded project. Supported 
+emergency flood response by leading the April–May 2020 Kenya flood damage 
+assessment using Google Earth Engine time-series analysis, delivering 
+satellite-derived flood extent products to government and humanitarian 
+agencies under operational conditions. Built Earth observation capacity 
+across four countries by delivering hydrological modelling and remote 
+sensing training workshops to basin water officers in Kenya, Tanzania, 
+Uganda, and Malawi.
 
-### Associate Water Quality Technician
-** The Water Project**| Kakamega, Kenya | *Jan 2019-June 2019*
-- Coordinated quarterly water quality testing in line with annual capacity and quota allocations for each water point, exceeding targets and contributing to reduced operational costs.
-- Managed quarterly water sample collection and delivery to accredited laboratories, ensuring compliance with sampling standards and minimizing secondary contamination.
-- Recommended appropriate water treatment solutions for over 100 contaminated water points and advised on mitigation of contamination sources.
-- Supervised more than 1,000 water quality surveys using the mWater tool, ensuring data quality and identifying key pollution sources
+### Associate Water Quality Officer
+**The Water Project** | Kenya | *Jan 2019–Jul 2019*
+
+Supported rural water quality monitoring across Kenya by conducting field 
+assessments and data collection to inform safe water access programmes 
+for underserved communities.
 
 ### Junior Hydrologist
-**Hydrosan Limited** | Kakamega, Kenya | *Dec 2013–Dec 2018*
+**Hydrosan Limited** | Kakamega, Kenya | *Nov 2013–Dec 2018*
 
-- Conducted hydrological and hydrogeological assessments for 300+ water points
-- Developed catchment management plans for Water Resources Users' Associations
-- Led Environmental Impact Assessments and community engagement activities
+Informed water abstraction permitting decisions for multiple river systems 
+by conducting hydrological assessments to characterise surface water 
+availability across western Kenya. Strengthened community water governance 
+by developing catchment management plans for Water Resources Users' 
+Associations, including WEAP-based water allocation planning and resource 
+budgeting. Ensured regulatory compliance for water infrastructure projects 
+by leading Environmental Impact Assessments and stakeholder engagement 
+processes across multiple sites.
 
+### Research Staff
+**FAO** | Tanzania | *Apr 2018–May 2018*
+
+Contributed to an international oceanographic research cruise aboard the 
+RV Dr. Fridtjof Nansen by conducting physio-chemical water quality 
+assessments between the East Coast of Tanzania and the Seychelles, 
+contributing to FAO's assessment of mesopelagic fish stocks and marine 
+environmental conditions in the Western Indian Ocean.
 
 ### Intern
-**Water Resources Management Authority (WRMA)** | Eldoret, Kenya | *May 2013-August 2013*
-- Assisted in hydrological and hydrogeological surveys and water quality sampling under supervision, gaining practical experience in field data collection and basic hydrological analysis.
-- Contributed to the development of a Sub-Catchment Management Plan (SCMP) by supporting community workshops, training sessions, and capacity-building activities.
-- Performed data entry and analysis of rainfall, evaporation, evapotranspiration, river discharge, and groundwater datasets, strengthening skills in data cleaning, analysis, and technical reporting
+**Water Resources Management Authority (WRMA)** | Eldoret, Kenya | *May 2013–Sep 2013*
+
+Built foundational water resources management capacity by conducting 
+hydrological and hydrogeological surveys, water quality sampling, and 
+rainfall, evaporation, discharge, and groundwater data analysis, and 
+contributed to the development of a Sub-Catchment Management Plan (SCMP) 
+for the Eldoret region.
 
 ---
+
 ## Education
 
-### PhD Environmental Science (SAR Flood Mapping)
-**University of Stirling** | Scotland, UK | *2022–2026 (expected)*
+### PhD — Polarimetric SAR Flood Mapping and Environmental Monitoring
+**University of Stirling** | Scotland, UK | *Oct 2022–Sep 2026 (expected)*
 
 - Funded by UK Natural Environment Research Council (NERC)
-- Thesis: Mapping and monitoring floods using Synthetic Arpertur Radar (SAR) Polarimetry
-- Application of polarimetric change detection in mapping open flood
-- Development of polarimetric change detection method for mapping floods under vegetation
-- Developing field-tested methodologies for floodplain and wetland management
+- Thesis: Mapping and Monitoring of Floods using Polarimetric Synthetic 
+Aperture Radar
+- Developing novel polarimetric change detection methods for flood mapping 
+across vegetated floodplains, wetlands, and open water surfaces
+- Ground-based radar experiment characterising multi-frequency SAR 
+backscatter under flooding conditions
 
 ### MSc Water Science (Policy and Governance)
 **Pan-African University (PAUWES)** | Algeria | *2016–2018*
 
 - African Union fully-funded scholarship
 
-### BSc Earth Science
+### BSc Hydrology and Water Resources Management with IT
 **Maseno University** | Kenya | *2009–2013*
 
 ---
 
 ## Selected Consultancies
 
-
-- **Climate Action Callander, Scotland** (2023): Flood resilience review for River Teith
-- **UNDP Malawi** (2020–2022): Community-based flood early warning systems implementation
-- **Sanivation** (2021-2022): FSM baseline assessment for Kisii-Nyamira county and Nyahururu  
-- **SNV** (2021): Water quality and quantity mapping in Laikipia, Isiolo, and Samburu Counties
-
+- **Ministry of Water and Sanitation, Malawi** (2023–2024): Lead Hydrologist 
+& Remote Sensing Expert — establishment of Community-Based Flood Early 
+Warning Systems (CBFEWS)
+- **Climate Action Callander, Scotland** (2023): Technical Advisor — flood 
+resilience review for the River Teith catchment
+- **SNV Netherlands Development Organisation, Kenya** (2021): Hydrology, 
+Water Resource Mapping & GIS Expert — integrated regional water resource 
+assessment across Laikipia, Isiolo, and Samburu Counties
+- **UNDP Malawi** (2020–2022): Lead Hydrologist — community-based flood 
+early warning systems implementation using Sentinel-1 SAR-derived flood 
+extents
 
 ---
 
 ## Awards & Funding
 
-- **ESA/CONAE PUMAS Programme** (2025–2027): Global satellite data access and tasking
-- **NERC PhD Studentship** (2022–2026): Fully-funded doctoral research, University of Stirling
-- **African Union Scholarship** (2016–2018): Fully-funded MSc at Pan-African University
+- **ESA/CONAE PUMAS Programme** (2025–2027): Competitive global satellite 
+data access and SAOCOM L-band SAR tasking
+- **NERC PhD Studentship** (2022–2026): Fully-funded doctoral research, 
+University of Stirling
+- **African Union Scholarship** (2016–2018): Fully-funded MSc at 
+Pan-African University
 
 ---
 
 ## Technical Skills
 
-**Programming:** Python, R, JavaScript, Google Earth Engine
-**Remote Sensing:** SAR processing (PolSARpro, SNAP), Ground radar data processing (focusing, calibration) optical imagery, drone data analysis
-**GIS:** ArcGIS, QGIS, spatial data analysis, cartography
-**Modelling:** Hydrological modelling (SWAT, VIC, CREST), hydraulic modelling (HEC RAS)
-**Machine Learning:** Deep learning, TensorFlow, PyTorch, scikit-learn
-**Data Collection:** Field surveys, KoboToolbox, ODK, hydrological sampling
+**Remote Sensing & EO:** SAR processing (PolSARpro, SNAP, ENVI SARscape), 
+ground-based radar (focusing, calibration), optical imagery (Sentinel-2, 
+Landsat, PlanetScope), polarimetric decomposition, InSAR, change detection, 
+Google Earth Engine (advanced)
+
+**Hydrological Modelling:** VIC (advanced), SWAT (intermediate-advanced), 
+EF5 (advanced — trainer level), CREST (intermediate), WEAP 
+(intermediate-advanced), HEC-RAS 2D (intermediate)
+
+**Programming & Data Science:** Python (advanced — NumPy, Pandas, SciPy, 
+scikit-learn, GDAL, xarray, GeoPandas), R (intermediate), JavaScript 
+(intermediate), Git/version control (advanced), Linux/HPC (intermediate), 
+machine learning & deep learning (intermediate)
+
+**GIS:** ArcGIS Desktop/Pro (expert), QGIS (advanced)
+
+**Data Formats:** NetCDF, GeoTIFF, HDF, Shapefile, GeoJSON; ERA5, CHIRPS, 
+TAMSAT, IMERG, NCEP
 
 ---
 
 ## Professional Training
 
-- 8th Advanced Training Course on Radar Polarimetry, European Space Agency (2023)
-- IEEE GRSS PolSAR School 2024, University of Stirling (Dec 2024)
-- 6th ESA/DLR PolInSAR Course (Nov 2023 – Feb 2024)
-- A Practical Introduction to 2D River Modelling in HEC-RAS (Online), Udemy (2023)
-- Gender Training, USAID (2021)
-- Wastewater Treatment, HYDROAID (2020)
-- Echoes in Space: Radar Remote Sensing with SAR, European Space Agency (2019)
-- Governance of Environmental and Water Services, Climate Change and Water Rights, HYDROAID (2019)
-- Climate Change and Water Systems, University of Bonn / UNU-EHS (Jul 2017)
+- 8th Advanced Training Course on Radar Polarimetry, ESA (2023)
+- IEEE GRSS PolSAR School, University of Stirling (Dec 2024)
+- 6th ESA/DLR PolInSAR Course (Nov 2023–Feb 2024)
+- Practical Introduction to 2D River Modelling in HEC-RAS, Udemy (2023)
+- Echoes in Space: Radar Remote Sensing with SAR, ESA (2019)
+- Climate Change and Water Systems, University of Bonn / UNU-EHS (2017)
 
 ---
 
 ## Professional Memberships
 
-- IEEE-GRSS Student Member
-- UN-Space Space4Water Network Young Professional – [space4water.org/person/kasiti](https://www.space4water.org/person/kasiti)
-- Hydrological Society of Kenya – Elected Official, Programs Committee (2021–2025)
-- National Environmental Management Authority (NEMA), Kenya – Associate Expert
-- Western Indian Ocean Early Career Scientist Network – Member
+- IEEE Geoscience and Remote Sensing Society (GRSS) — Student Member
+- UN-Space Space4Water Network — Young Professional
+- Hydrological Society of Kenya — Elected Official, Programs Committee 
+(2021–2025)
+- National Environmental Management Authority (NEMA), Kenya — Associate 
+Expert
+- Western Indian Ocean Early Career Scientist Network — Member
 
 ---
 
