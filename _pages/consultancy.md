@@ -11,21 +11,7 @@ Over the years, I have provided technical expertise to governments, internationa
 
 ## Current Projects
 
-### Community-Based Flood Early Warning Systems
-**Client:** Ministry of Water and Sanitation, Malawi  
-**Duration:** 2023 – Ongoing
 
-Leading the establishment of community-based flood early warning systems (CBFEWS) across multiple districts in Malawi. This project involves designing technical infrastructure, training local communities, developing Standard Operating Procedures (SOPs), and establishing monitoring networks.
-
-**Key Deliverables:**
-- Installation of automatic weather stations and river gauges
-- Community training on flood monitoring and response protocols
-- Development of early warning dissemination channels
-- Integration with national disaster management systems
-
-**Impact:** Protecting over 50,000 residents in flood-prone areas through timely warnings and preparedness activities.
-
----
 
 ## Completed Projects
 
