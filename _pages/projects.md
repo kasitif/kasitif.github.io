@@ -143,7 +143,7 @@ and Malawi. Served as trainer-level instructor for the EF5 hydrological
 modelling framework.
 
 **Training Topics:**
-- Hydrological modelling with VIC, SWAT, and EF5
+- Hydrological modelling with VIC and EF5
 - Google Earth Engine for water resources monitoring
 - Community-based flood early warning systems
 - Python for geospatial data processing
@@ -177,24 +177,6 @@ response across district and national levels
 
 ---
 
-### Community-Based Flood Early Warning Systems — Malawi
-**Client:** Ministry of Water and Sanitation, Malawi  
-**Duration:** 2023 – 2024
-
-Led the establishment of community-based flood early warning systems 
-across multiple districts in Malawi as Lead Hydrologist and Remote 
-Sensing Expert, building on the earlier UNDP implementation with 
-expanded coverage and updated technical infrastructure.
-
-**Key Deliverables:**
-- Flood risk assessment and hazard mapping using GIS and Earth 
-observation data
-- Installation of automatic weather stations and river gauges
-- Community training on flood monitoring and response protocols
-- Development of early warning dissemination channels
-- Integration with national disaster management systems
-
----
 
 ### Water Quality and Quantity Mapping — Kenya
 **Client:** SNV Netherlands Development Organisation  
