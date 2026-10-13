@@ -68,14 +68,6 @@ frameworks in Kenya, combining hydrological data and policy analysis.
 
 ## Conference Proceedings
 
-Greenwood, E. E., **Isundwa, F. K.**, Mufitini Saidi, J., Shetebo, J., 
-Azman, A., Cumming, O., & Gallandat, K. (2026). *Understanding 
-Vulnerabilities to Extreme Flooding Along the Drinking Water Supply 
-Chain in an Urban, Complex-Emergency Setting: Analyses of Satellite 
-Imagery, Water Utility, and Household Survey Data*. EGU General 
-Assembly 2026, Vienna, Austria, 3–8 May 2026.  
-[https://doi.org/10.5194/egusphere-egu26-17379](https://doi.org/10.5194/egusphere-egu26-17379)
-
 **Isundwa, F. K.**, Marino, A., Silva, T. S. F., Bovolo, I., 
 Berardi, A., & Neil, C. (2024). *Mapping Floods Using SAR Polarimetry 
 in Imola, Italy*. In **IGARSS 2024 — IEEE International Geoscience 
@@ -134,7 +126,6 @@ Oral H33D-05, **AGU Fall Meeting 2021**.
 
 ## Conference Presentations — ESA PolInSAR & Biomass 2026
 
-
 **12th International Workshop on Science and Applications of SAR 
 Polarimetry and Polarimetric Interferometry (PolInSAR), 6th Biomass 
 Science Workshop & 1st Cal/Val Meeting**
@@ -154,9 +145,17 @@ Presentation.
 *University of Stirling · The Open University · Durham University · 
 Scottish Environment Protection Agency.*
 
+---
 
+## Conference Abstracts
 
-
+Greenwood, E. E., **Isundwa, F. K.**, Mufitini Saidi, J., Shetebo, J., 
+Azman, A., Cumming, O., & Gallandat, K. (2026). *Understanding 
+Vulnerabilities to Extreme Flooding Along the Drinking Water Supply 
+Chain in an Urban, Complex-Emergency Setting: Analyses of Satellite 
+Imagery, Water Utility, and Household Survey Data*. EGU General 
+Assembly 2026, Vienna, Austria, 3–8 May 2026.  
+[https://doi.org/10.5194/egusphere-egu26-17379](https://doi.org/10.5194/egusphere-egu26-17379)
 
 ---
 
@@ -168,24 +167,6 @@ Techniques.*
 
 **Isundwa, F. K.**, et al. (In Preparation). *Flood Simulation Using 
 Quad-Pol Ground-Based SAR.*
-
----
-
-## Presentations Summary
-
-| Event | Date | Type |
-|---|---|---|
-| ESA PolInSAR & Biomass 2026 — Ground SAR Flood Simulation | 2026 | Oral |
-| ESA PolInSAR & Biomass 2026 — Sentinel-1 Wetland PolSAR | 2026 | Oral |
-| EGU General Assembly 2026 — Flood & Drinking Water Supply Chain | May 2026 | Abstract |
-| IGARSS 2024 — SAR Polarimetry Flood Mapping, Imola | Aug 2024 | Oral |
-| EUSAR 2024 — Water Hyacinth Temporal Trends | Apr 2024 | Oral |
-| InGARSS 2023 — Water Hyacinth PolSAR, Lake Victoria | Dec 2023 | Oral |
-| IAPETUS — Flood Mapping Using SAR Polarimetry | May 2024, 2025 | Technical Presentation |
-| AGU Fall Meeting 2021 — Great Ruaha Streamflow | Dec 2021 | Poster |
-| AGU Fall Meeting 2021 — Lake Victoria Water Quality | Dec 2021 | Poster |
-| AGU Fall Meeting 2021 — CBFEWS Malawi | Dec 2021 | Oral |
-| ESA/DLR PolInSAR Course | Nov 2023–Feb 2024 | Participant |
 
 ---
 

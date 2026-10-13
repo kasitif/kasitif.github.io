@@ -39,7 +39,7 @@ Sentinel-1-based flood extent mapping into the hands of non-specialist
 users — tested across the UK, Guyana, Kenya, and Malawi.
 
 I am committed to open, reproducible science and regularly share 
-code and methods through GitHub.
+code and methods through [GitHub](https://github.com/kasitif).
 
 ---
 
@@ -57,6 +57,19 @@ models
 actionable products for communities and operational flood managers
 - **Machine Learning** — deep learning for automated flood mapping, 
 damage assessment, and near-real-time situational awareness
+
+---
+
+## Future Research Directions
+
+I am interested in developing work at the intersection of:
+- Multiband and multi-sensor SAR for surface water dynamics and 
+peatland monitoring
+- AI and machine learning for climate adaptation and disaster 
+resilience
+- Operational flood early warning systems for data-scarce environments
+- UAS and ground-based SAR for high-resolution environmental sensing
+- Open-source tools for accessible environmental monitoring
 
 ---
 
@@ -84,6 +97,18 @@ SAR, telemetric sensors, and satellite streamflow forecasts.
 Led hydrological and hydrogeological assessments, catchment 
 management planning, and environmental impact assessments across 
 western Kenya.
+
+---
+
+## Collaborations
+
+- Scottish Environment Protection Agency (SEPA), UK
+- Regional Centre for Mapping of Resources for Development (RCMRD), 
+Kenya
+- International Crops Research Institute for the Semi-Arid Tropics 
+(ICRISAT)
+- UNDP Malawi
+- Ministry of Water and Sanitation, Malawi
 
 ---
 
