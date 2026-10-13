@@ -25,8 +25,8 @@ redirect_from:
 Developed, applied, and published novel polarimetric SAR change detection 
 methods for flood mapping by designing and validating algorithms across 
 Sentinel-1, SAOCOM, and ALOS-2 datasets, resulting in three first-author 
-publications in IEEE JSTARS and presentations at six major international 
-conferences including IGARSS, EUSAR, ESA Biomass PolInSAR, and EGU. 
+publications in IEEE JSTARS and presentations at major international 
+conferences including IGARSS, EUSAR, ESA PolInSAR & Biomass, and EGU. 
 Advanced the physical understanding of multiband SAR backscatter under 
 flooding conditions by designing and conducting a controlled ground-based 
 radar experiment, generating findings currently in preparation for 
@@ -37,11 +37,11 @@ Sentinel-1 change detection, tested across four countries.
 ### Research Placement Student
 **Scottish Environment Protection Agency (SEPA)** | Stirling, UK | *Feb 2025–Jul 2025*
 
-Strengthened operational flood response in Scotland by designing a 
-near-real-time disaster intelligence system that integrated satellite 
-emergency mapping with deep learning-based classification of social and 
-mainstream media feeds, supporting faster situational awareness for flood 
-managers during active flood events.
+Strengthened operational flood response in Scotland by designing and 
+implementing a near-real-time disaster intelligence system that integrated 
+satellite emergency mapping with deep learning-based classification of 
+social and mainstream media feeds, supporting faster situational awareness 
+for flood managers during active flood events.
 
 ### Graduate Teaching Assistant
 **University of Stirling** | Scotland, UK | *Sep 2024–Jul 2025*
@@ -76,6 +76,16 @@ agencies under operational conditions. Built Earth observation capacity
 across four countries by delivering hydrological modelling and remote 
 sensing training workshops to basin water officers in Kenya, Tanzania, 
 Uganda, and Malawi.
+
+### Lead FSM Consultant
+**Sanivation** | Kisii, Kirinyaga, Nyamira & Nyahururu Counties, Kenya | *2021–2022*
+
+Led the conceptualisation, design, data collection, analysis, and reporting 
+of a Faecal Sludge Management (FSM) baseline assessment across four Kenyan 
+counties. Developed a county-level FSM plan with a 30-year demand forecast, 
+conducted GHG emission estimation from sanitation systems, and evaluated 
+flood vulnerability of sanitation infrastructure with recommendations for 
+climate-resilient sanitation planning.
 
 ### Associate Water Quality Officer
 **The Water Project** | Kenya | *Jan 2019–Jul 2019*
@@ -146,6 +156,9 @@ backscatter under flooding conditions
 Warning Systems (CBFEWS)
 - **Climate Action Callander, Scotland** (2023): Technical Advisor — flood 
 resilience review for the River Teith catchment
+- **Sanivation, Kenya** (2021–2022): Lead FSM Consultant — Faecal Sludge 
+Management baseline assessment across Kisii, Kirinyaga, Nyamira & 
+Nyahururu Counties
 - **SNV Netherlands Development Organisation, Kenya** (2021): Hydrology, 
 Water Resource Mapping & GIS Expert — integrated regional water resource 
 assessment across Laikipia, Isiolo, and Samburu Counties

@@ -11,16 +11,14 @@ redirect_from:
 
 ## Journal Articles
 
-**Isundwa, F. K.**, Marino, A., Berardi, A., Bovolo, I., Hunter, P., 
-Neil, C., Perez, C. S., & Silva, T. S. F. (2026). *Analytical 
-Optimisation of Polarimetric Change Detectors for Mapping Open and 
-Grassland Flooding Using Sentinel-1: Case of Rupununi, Guyana*. 
-**IEEE Journal of Selected Topics in Applied Earth Observations and 
-Remote Sensing**.  
+**Isundwa, F. K.**, et al. (2026). *Analytical Optimisation of Polarimetric 
+Change Detectors for Mapping Open and Grassland Flooding Using Sentinel-1: 
+Case of Rupununi, Guyana*. **IEEE Journal of Selected Topics in Applied 
+Earth Observations and Remote Sensing**.  
 [https://doi.org/10.1109/JSTARS.2026.3739494](https://doi.org/10.1109/JSTARS.2026.3739494)  
-Analytically optimised polarimetric change detectors for mapping 
-flooding in open and grassland environments, applied to the North 
-Rupununi wetlands in Guyana using Sentinel-1 data.
+Analytically optimised polarimetric change detectors for mapping flooding 
+in open and grassland environments, applied to the North Rupununi wetlands 
+in Guyana using Sentinel-1 data.
 
 ---
 
@@ -45,8 +43,7 @@ Selected Topics in Applied Earth Observations and Remote Sensing**.
 [https://doi.org/10.1109/jstars.2024.3476938](https://doi.org/10.1109/jstars.2024.3476938)  
 Applied polarimetric SAR decomposition for invasive aquatic vegetation 
 monitoring in Lake Victoria, East Africa, demonstrating seasonal 
-infestation dynamics across the lake basin. Collaboration with 
-ICRISAT.
+infestation dynamics across the lake basin. Collaboration with ICRISAT.
 
 ---
 
@@ -150,6 +147,18 @@ Scottish Environment Protection Agency.*
 
 ---
 
+## Conference Abstracts
+
+Greenwood, E. E., **Isundwa, F. K.**, Mufitini Saidi, J., Shetebo, J., 
+Azman, A., Cumming, O., & Gallandat, K. (2026). *Understanding 
+Vulnerabilities to Extreme Flooding Along the Drinking Water Supply 
+Chain in an Urban, Complex-Emergency Setting: Analyses of Satellite 
+Imagery, Water Utility, and Household Survey Data*. EGU General 
+Assembly 2026, Vienna, Austria, 3–8 May 2026.  
+[https://doi.org/10.5194/egusphere-egu26-17379](https://doi.org/10.5194/egusphere-egu26-17379)
+
+---
+
 ## In Preparation
 
 **Isundwa, F. K.**, et al. (In Preparation). *Flood Extent Mapping 
@@ -167,6 +176,7 @@ Quad-Pol Ground-Based SAR.*
 |---|---|---|
 | ESA PolInSAR & Biomass 2026 — Ground SAR Flood Simulation | 2026 | Oral |
 | ESA PolInSAR & Biomass 2026 — Sentinel-1 Wetland PolSAR | 2026 | Oral |
+| EGU General Assembly 2026 — Flood & Drinking Water Supply Chain | May 2026 | Abstract |
 | IGARSS 2024 — SAR Polarimetry Flood Mapping, Imola | Aug 2024 | Oral |
 | EUSAR 2024 — Water Hyacinth Temporal Trends | Apr 2024 | Oral |
 | InGARSS 2023 — Water Hyacinth PolSAR, Lake Victoria | Dec 2023 | Oral |
@@ -190,4 +200,4 @@ Earth Engine scripts for water resources monitoring.
 ---
 
 *Full publication list and citation metrics available on 
-[Google Scholar](https://scholar.google.com).*
+[Google Scholar](https://scholar.google.com/citations?user=qoqLfCAAAAAJ&hl=en).*

@@ -77,6 +77,28 @@ warning protocols
 
 ---
 
+### Faecal Sludge Management Baseline Assessment
+**Client:** Sanivation  
+**Role:** Lead FSM Consultant  
+**Duration:** 2021 – 2022  
+**Location:** Kisii, Kirinyaga, Nyamira & Nyahururu Counties, Kenya
+
+Led the conceptualisation, design, data collection, analysis, and 
+reporting of a Faecal Sludge Management (FSM) baseline assessment 
+across four Kenyan counties.
+
+**Key Deliverables:**
+- Designed and led the FSM baseline assessment methodology and 
+data collection across four counties
+- Developed a county-level FSM plan with a 30-year demand forecast
+- Conducted greenhouse gas emission estimation from sanitation systems
+- Assessed impacts of sanitation practices on surface and groundwater 
+resources
+- Evaluated flood vulnerability of sanitation infrastructure and 
+recommended climate-resilient sanitation planning strategies
+
+---
+
 ### Water Quality and Quantity Mapping
 **Client:** SNV Netherlands Development Organisation  
 **Duration:** 2021  
@@ -112,6 +134,8 @@ risk reduction
 modelling, and flood monitoring protocols
 - **Policy Support:** Evidence-based recommendations for water 
 resources management
+- **Sanitation Planning:** FSM baseline assessments, GHG emission 
+estimation, climate-resilient sanitation infrastructure planning
 
 ---
 
@@ -122,6 +146,7 @@ resources management
 - Climate Change Adaptation
 - Environmental Impact Assessment
 - Community Development
+- Water, Sanitation and Hygiene (WASH)
 
 ---
 
