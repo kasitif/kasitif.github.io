@@ -68,6 +68,14 @@ frameworks in Kenya, combining hydrological data and policy analysis.
 
 ## Conference Proceedings
 
+Greenwood, E. E., **Isundwa, F. K.**, Mufitini Saidi, J., Shetebo, J., 
+Azman, A., Cumming, O., & Gallandat, K. (2026). *Understanding 
+Vulnerabilities to Extreme Flooding Along the Drinking Water Supply 
+Chain in an Urban, Complex-Emergency Setting: Analyses of Satellite 
+Imagery, Water Utility, and Household Survey Data*. EGU General 
+Assembly 2026, Vienna, Austria, 3–8 May 2026.  
+[https://doi.org/10.5194/egusphere-egu26-17379](https://doi.org/10.5194/egusphere-egu26-17379)
+
 **Isundwa, F. K.**, Marino, A., Silva, T. S. F., Bovolo, I., 
 Berardi, A., & Neil, C. (2024). *Mapping Floods Using SAR Polarimetry 
 in Imola, Italy*. In **IGARSS 2024 — IEEE International Geoscience 
@@ -126,6 +134,7 @@ Oral H33D-05, **AGU Fall Meeting 2021**.
 
 ## Conference Presentations — ESA PolInSAR & Biomass 2026
 
+
 **12th International Workshop on Science and Applications of SAR 
 Polarimetry and Polarimetric Interferometry (PolInSAR), 6th Biomass 
 Science Workshop & 1st Cal/Val Meeting**
@@ -145,17 +154,9 @@ Presentation.
 *University of Stirling · The Open University · Durham University · 
 Scottish Environment Protection Agency.*
 
----
 
-## Conference Abstracts
 
-Greenwood, E. E., **Isundwa, F. K.**, Mufitini Saidi, J., Shetebo, J., 
-Azman, A., Cumming, O., & Gallandat, K. (2026). *Understanding 
-Vulnerabilities to Extreme Flooding Along the Drinking Water Supply 
-Chain in an Urban, Complex-Emergency Setting: Analyses of Satellite 
-Imagery, Water Utility, and Household Survey Data*. EGU General 
-Assembly 2026, Vienna, Austria, 3–8 May 2026.  
-[https://doi.org/10.5194/egusphere-egu26-17379](https://doi.org/10.5194/egusphere-egu26-17379)
+
 
 ---
 
